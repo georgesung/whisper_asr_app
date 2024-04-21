@@ -1,0 +1,8 @@
+transformers
+gradio
+accelerate
+streamlit
+streamlit-webrtc
+pydub
+av
+twilio
