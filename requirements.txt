@@ -6,3 +6,4 @@ streamlit-webrtc
 pydub
 av
 twilio
+streamlit-audiorec
