@@ -20,14 +20,21 @@ E.g.
 ```
 Where internal_http_port is the port the app is running on (e.g. 8501), external https port is the port to serve on (e.g. 8509 -> https://your_url:8509)
 
-## How to run app
+## How to run NiceGUI app
+This app uses [NiceGUI](https://nicegui.io)
+```
+python ngui.py
+```
+![screenshot](/app_ngui_demo.png)
+
+## How to run Streamlit app
 This app uses https://github.com/stefanrmmr/streamlit-audio-recorder
 ```
 streamlit run app.py
 ```
 ![screenshot](/app_demo.png)
 
-## How to run WebRTC app
+## How to run Streamlit WebRTC app
 This app uses https://github.com/whitphx/streamlit-webrtc
 ```
 streamlit run app_webrtc.py

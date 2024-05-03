@@ -7,3 +7,4 @@ pydub
 av
 twilio
 streamlit-audiorec
+nicegui
