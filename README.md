@@ -1,4 +1,4 @@
-# Streamlit Whisper ASR app
+# Demo Whisper ASR app
 Basic Streamlit app to record audio from user's microphone, run Automatic Speech Recognition (ASR) using distil-whisper-large, and show the transcribed text.
 
 ## Pre-reqs
